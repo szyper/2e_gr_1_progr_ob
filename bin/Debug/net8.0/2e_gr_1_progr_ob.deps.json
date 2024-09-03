@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "2e_gr_1_progr_ob/1.0.0": {
+        "runtime": {
+          "2e_gr_1_progr_ob.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2e_gr_1_progr_ob/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

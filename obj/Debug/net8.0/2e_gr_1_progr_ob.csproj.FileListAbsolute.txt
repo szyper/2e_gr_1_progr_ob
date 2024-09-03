@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\2e_gr_1_progr_ob\bin\Debug\net8.0\2e_gr_1_progr_ob.exe
+C:\Users\User\Desktop\2e_gr_1_progr_ob\bin\Debug\net8.0\2e_gr_1_progr_ob.deps.json
+C:\Users\User\Desktop\2e_gr_1_progr_ob\bin\Debug\net8.0\2e_gr_1_progr_ob.runtimeconfig.json
+C:\Users\User\Desktop\2e_gr_1_progr_ob\bin\Debug\net8.0\2e_gr_1_progr_ob.dll
+C:\Users\User\Desktop\2e_gr_1_progr_ob\bin\Debug\net8.0\2e_gr_1_progr_ob.pdb
+C:\Users\User\Desktop\2e_gr_1_progr_ob\obj\Debug\net8.0\2e_gr_1_progr_ob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\2e_gr_1_progr_ob\obj\Debug\net8.0\2e_gr_1_progr_ob.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\2e_gr_1_progr_ob\obj\Debug\net8.0\2e_gr_1_progr_ob.AssemblyInfo.cs
+C:\Users\User\Desktop\2e_gr_1_progr_ob\obj\Debug\net8.0\2e_gr_1_progr_ob.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\2e_gr_1_progr_ob\obj\Debug\net8.0\2e_gr_1_progr_ob.dll
+C:\Users\User\Desktop\2e_gr_1_progr_ob\obj\Debug\net8.0\refint\2e_gr_1_progr_ob.dll
+C:\Users\User\Desktop\2e_gr_1_progr_ob\obj\Debug\net8.0\2e_gr_1_progr_ob.pdb
+C:\Users\User\Desktop\2e_gr_1_progr_ob\obj\Debug\net8.0\2e_gr_1_progr_ob.genruntimeconfig.cache
+C:\Users\User\Desktop\2e_gr_1_progr_ob\obj\Debug\net8.0\ref\2e_gr_1_progr_ob.dll
